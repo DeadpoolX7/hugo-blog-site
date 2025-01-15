@@ -1,0 +1,5 @@
+[[plugins]]
+  package = "netlify-plugin-hugo"
+
+  [plugins.inputs]
+  version = "0.88.1" # Specify the version of Hugo you want to use
