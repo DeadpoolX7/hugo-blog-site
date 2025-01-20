@@ -1,12 +1,6 @@
-[[plugins]]
-  package = "netlify-plugin-hugo"
-
-  [plugins.inputs]
-  version = "0.88.1" # Specify the version of Hugo you want to use
-
 [build]
   command = "hugo"
   publish = "public"
 
 [context.production.environment]
-  HUGO_VERSION = "extended"
+  HUGO_VERSION = "extended_0.116.0"
