@@ -1,0 +1,6 @@
+#config.toml
+
+baseURL = 'https://famous-pothos-27c6e4.netlify.app/'
+languageCode = 'en-us'
+title = 'SanBlog'
+theme = "paper"
