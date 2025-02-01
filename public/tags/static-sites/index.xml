@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Sanju Shaw</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Sanju Shaw</description>
+    <title>Static Sites on Sanju Shaw</title>
+    <link>http://localhost:1313/tags/static-sites/</link>
+    <description>Recent content in Static Sites on Sanju Shaw</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Feb 2025 19:32:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/static-sites/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why Static Site Generators Like Hugo Are Gaining Popularity?</title>
       <link>http://localhost:1313/posts/why-static-site-generators-like-hugo-are-gaining-popularity/</link>
       <pubDate>Sat, 01 Feb 2025 19:32:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/why-static-site-generators-like-hugo-are-gaining-popularity/</guid>
       <description>&lt;h2 id=&#34;why-static-site-generators-like-hugo-are-gaining-popularity&#34;&gt;Why Static Site Generators Like Hugo Are Gaining Popularity&lt;/h2&gt;&#xA;&lt;p&gt;In the evolving web landscape, &lt;strong&gt;Static Site Generators (SSGs)&lt;/strong&gt; like Hugo are becoming a preferred choice for developers. But why? Let’s explore a few key reasons.&lt;/p&gt;&#xA;&lt;h3 id=&#34;-speed--performance&#34;&gt;🚀 Speed &amp;amp; Performance&lt;/h3&gt;&#xA;&lt;p&gt;Unlike traditional CMS platforms that generate pages dynamically, Hugo pre-builds pages at compile time. This results in &lt;strong&gt;blazing-fast load speeds&lt;/strong&gt;, as there’s no need for database queries or backend processing.&lt;/p&gt;&#xA;&lt;h3 id=&#34;-security&#34;&gt;🛡️ Security&lt;/h3&gt;&#xA;&lt;p&gt;Static sites are inherently more secure since they don’t rely on databases or dynamic server-side logic, minimizing the risk of SQL injections or CMS vulnerabilities.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>First post</title>
-      <link>http://localhost:1313/posts/first-post/</link>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/first-post/</guid>
-      <description>&lt;p&gt;This is my first post!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
